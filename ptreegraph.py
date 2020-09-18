@@ -2,9 +2,6 @@ import requests
 from graphviz import Digraph
 
 
-# проверить работы сотклбченным интернетом
-# при неправильно заданном url
-
 class JSONImport:
 
     @classmethod
